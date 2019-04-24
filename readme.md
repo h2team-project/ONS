@@ -54,6 +54,7 @@ ons v0.1 包含以下接口：
 该接口定义 ***Register(who, name, roothash, inviter)***
 
 参数说明：
+
 参数名称 | 说明 | 类型
 |:---|:---|:---|
 who | 调用者自身的scripthash| bytes
